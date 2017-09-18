@@ -7037,7 +7037,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joshua J. Anker\\.nuget\\packages\\": {}
+    "C:\\Users\\Joshua Anker\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -7045,14 +7045,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joshua J. Anker\\source\\repos\\JankyWizModule1Review\\JankyWizModule1Review\\JankyWizModule1Review.csproj",
+      "projectUniqueName": "C:\\Users\\Joshua Anker\\Desktop\\github\\Module1Review\\JankyWizModule1Review\\JankyWizModule1Review.csproj",
       "projectName": "JankyWizModule1Review",
-      "projectPath": "C:\\Users\\Joshua J. Anker\\source\\repos\\JankyWizModule1Review\\JankyWizModule1Review\\JankyWizModule1Review.csproj",
-      "packagesPath": "C:\\Users\\Joshua J. Anker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joshua J. Anker\\source\\repos\\JankyWizModule1Review\\JankyWizModule1Review\\obj\\",
+      "projectPath": "C:\\Users\\Joshua Anker\\Desktop\\github\\Module1Review\\JankyWizModule1Review\\JankyWizModule1Review.csproj",
+      "packagesPath": "C:\\Users\\Joshua Anker\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Joshua Anker\\Desktop\\github\\Module1Review\\JankyWizModule1Review\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joshua J. Anker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Joshua Anker\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

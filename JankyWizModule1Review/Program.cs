@@ -41,6 +41,7 @@ namespace JankyWizModule1Review
             Foyer.PrintInputLine();
             Console.WriteLine(Foyer.Command);
 
+
             string foyerInput = Console.ReadLine().ToUpper();
 
             foyerInput = enteredChoice.FoyerInput(foyerInput);

@@ -8,3 +8,13 @@ C:\Users\Joshua J. Anker\source\repos\JankyWizModule1Review\JankyWizModule1Revie
 C:\Users\Joshua J. Anker\source\repos\JankyWizModule1Review\JankyWizModule1Review\obj\Debug\netcoreapp1.1\JankyWizModule1Review.AssemblyInfo.cs
 C:\Users\Joshua J. Anker\source\repos\JankyWizModule1Review\JankyWizModule1Review\obj\Debug\netcoreapp1.1\JankyWizModule1Review.dll
 C:\Users\Joshua J. Anker\source\repos\JankyWizModule1Review\JankyWizModule1Review\obj\Debug\netcoreapp1.1\JankyWizModule1Review.pdb
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\bin\Debug\netcoreapp1.1\JankyWizModule1Review.deps.json
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\bin\Debug\netcoreapp1.1\JankyWizModule1Review.runtimeconfig.json
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\bin\Debug\netcoreapp1.1\JankyWizModule1Review.runtimeconfig.dev.json
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\bin\Debug\netcoreapp1.1\JankyWizModule1Review.dll
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\bin\Debug\netcoreapp1.1\JankyWizModule1Review.pdb
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\obj\Debug\netcoreapp1.1\JankyWizModule1Review.csprojResolveAssemblyReference.cache
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\obj\Debug\netcoreapp1.1\JankyWizModule1Review.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\obj\Debug\netcoreapp1.1\JankyWizModule1Review.AssemblyInfo.cs
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\obj\Debug\netcoreapp1.1\JankyWizModule1Review.dll
+C:\Users\Joshua Anker\Desktop\github\Module1Review\JankyWizModule1Review\obj\Debug\netcoreapp1.1\JankyWizModule1Review.pdb
